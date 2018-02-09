@@ -10,6 +10,6 @@
   "author": "Jeroen Vollenbrock <jeroen@athom.com>",
   "license": "ISC",
   "dependencies": {
-    "dbus-native": "^0.2.3"
+    "dbus-native": "0.2.3"
   }
 }
